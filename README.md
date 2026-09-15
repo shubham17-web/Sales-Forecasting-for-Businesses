@@ -1,78 +1,58 @@
-# Sales Forecasting for Businesses
+# 📊 Sales Forecasting for Businesses
 
-## 📊 Project Overview
-
-This project analyzes historical business sales data and uses
-Python, SQL, and Power BI to identify sales trends, profitability
-patterns, regional performance, discount impact, and future sales
-forecasts.
-
-The project follows a complete data analytics workflow:
-
-Raw Data → Cleaning → EDA → SQL → Time Series Analysis
-→ Forecasting → Model Evaluation → Power BI → Business Recommendations
+An end-to-end Data Analytics project that analyzes business sales data, identifies profitability trends, performs SQL analysis, builds time-series forecasts, evaluates forecasting models, and presents insights through an interactive Streamlit dashboard.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objective
 
-- Analyze historical sales and profit performance
-- Clean and validate business transaction data
-- Identify profitable and loss-making product categories
-- Analyze regional and customer-segment performance
-- Study sales seasonality and trends
-- Build sales forecasting models
-- Evaluate forecasting performance
-- Create an interactive Power BI dashboard
-- Generate actionable business recommendations
+The goal of this project is to analyze historical sales data and answer important business questions such as:
+
+- Which categories and products generate the most sales?
+- Which products and sub-categories are loss-making?
+- Which regions and customer segments perform best?
+- How do discounts relate to profitability?
+- What are the monthly and yearly sales trends?
+- Can historical sales be used to forecast future demand?
+- Which forecasting model performs best?
+- What business actions can be recommended from the analysis?
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- SQLite
-- SQL
-- Power BI
-- Git & GitHub
+- **Python**
+- **Pandas** – Data manipulation and analysis
+- **NumPy** – Numerical operations
+- **Matplotlib** – Data visualization
+- **Seaborn** – Statistical visualization
+- **Plotly** – Interactive visualizations
+- **SQLite** – SQL-based data analysis
+- **Scikit-learn** – Forecasting models
+- **Streamlit** – Interactive dashboard
+- **Power BI** – Business intelligence dashboard
 
 ---
 
-## 📁 Project Structure
+## 🔄 Project Workflow
 
 ```text
-Sales-Forecasting-for-Businesses/
-│
-├── data/
-│   ├── raw/
-│   │   └── Sample - Superstore.csv
-│   │
-│   ├── messy/
-│   │   └── sales_messy.csv
-│   │
-│   └── processed/
-│       ├── sales_cleaned.csv
-│       ├── sales_messy_practice_cleaned.csv
-│       ├── monthly_sales_timeseries.csv
-│       ├── future_sales_forecast.csv
-│       └── model_evaluation_results.csv
-│
-├── Power BI/
-│   └── Sales-Forecasting-for-Businesses.pbix
-│
-├── business_recommendations.py
-├── create_database.py
-├── forecasting.py
-├── main.py
-├── model_evaluation.py
-├── sql_queries.py
-├── time_series.py
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+Raw Business Data
+        ↓
+Data Cleaning & Validation
+        ↓
+Exploratory Data Analysis
+        ↓
+SQL Analysis
+        ↓
+Time Series Analysis
+        ↓
+Sales Forecasting
+        ↓
+Model Evaluation
+        ↓
+Business Recommendations
+        ↓
+Streamlit Dashboard
+        ↓
+Power BI Dashboard
