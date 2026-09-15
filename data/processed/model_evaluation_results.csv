@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE_%
+Baseline,22668.13,31241.81,35.13
+Linear Regression,19663.55,23664.5,44.41
+Seasonal Regression,12180.97,16833.86,21.21
