@@ -66,6 +66,41 @@ The project answers questions such as:
 
 ---
 
+## 📸 Screenshots / Demo
+
+### Streamlit Dashboard
+
+#### Business Overview
+![Business Overview](screenshots/Business-Overview-(Streamlit).png)
+
+#### Sales Analysis
+![Sales Analysis](screenshots/Sales-Analysis-(Streamlit).png)
+
+#### Product Analysis
+![Product Analysis](screenshots/Product-Analysis-(Streamlit).png)
+
+#### Regional & Customer Analysis
+![Regional & Customer Analysis](screenshots/Regional_&_Customer-Analysis-(Streamlit).png)
+
+#### Sales Forecast
+![Sales Forecast](screenshots/Sales-Forecast-(Streamlit).png)
+
+#### Model Performance
+![Model Performance](screenshots/Model-Performance-(Streamlit).png)
+
+#### Business Recommendations
+![Business Recommendations](screenshots/Business-Recommendations-(Streamlit).png)
+
+### Power BI Dashboard
+
+#### Overview
+![Power BI Overview](screenshots/Overview_(Power BI).png)
+
+#### Sales Forecast Dashboard
+![Power BI Sales Forecast](screenshots/Sales-Forecast-Dashboard-(Power BI).png)
+
+---
+
 ## 🔄 Project Workflow
 
 ```text
