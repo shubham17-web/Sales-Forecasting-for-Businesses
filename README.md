@@ -94,10 +94,12 @@ The project answers questions such as:
 ### Power BI Dashboard
 
 #### Overview
-![Power BI Overview](screenshots/Overview_(Power BI).png)
+
+![Power BI Overview](screenshots/Overview_%28Power%20BI%29.png)
 
 #### Sales Forecast Dashboard
-![Power BI Sales Forecast](screenshots/Sales-Forecast-Dashboard-(Power BI).png)
+
+![Power BI Sales Forecast](screenshots/Sales-Forecast-Dashboard-%28Power%20BI%29.png)
 
 ---
 
